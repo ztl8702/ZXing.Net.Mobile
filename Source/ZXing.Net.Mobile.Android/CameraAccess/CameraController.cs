@@ -8,6 +8,7 @@ using Android.OS;
 using Android.Runtime;
 using Android.Views;
 using ApxLabs.FastAndroidCamera;
+
 using Camera = Android.Hardware.Camera;
 
 namespace ZXing.Mobile.CameraAccess
